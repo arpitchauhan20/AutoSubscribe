@@ -1,1 +1,1 @@
-Put all the photos from photos folter to script folder. (All photos) 
+Put all the photos from photos folder to script folder. 
